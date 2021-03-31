@@ -1,6 +1,8 @@
 # volkswagen
 
-Voltswagen is the successor the highly popular [Volkswagen](https://github.com/auchenberg/volkswagen/) package - but not really. It's actually just Volkswagen.
+Voltswagen is the spiritual successor the highly popular [Volkswagen](https://github.com/auchenberg/volkswagen/) package - but not really.
+
+It's actually just Volkswagen.
 
 ## Installation
 
