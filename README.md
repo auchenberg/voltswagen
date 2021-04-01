@@ -1,4 +1,4 @@
-# volkswagen
+# voltswagen
 
 Voltswagen is the spiritual successor to the highly popular [Volkswagen](https://github.com/auchenberg/volkswagen/) package - but not really.
 
